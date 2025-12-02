@@ -21,7 +21,7 @@ const questions = [
     },
     {
         question: "Qual jogo famoso usa a Lua como linguagem de programação principal?",
-        answers: ["Minecraft", "Free Fire", "Roblox", "Terraria"],
+        answers: ["Minecraft", "Roblox", "Free fire", "Terraria"],
         correct: 1
     }
 ];
@@ -95,4 +95,5 @@ restartBtn.onclick = () => {
 };
 
 loadQuestion();
+
 
