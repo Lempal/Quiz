@@ -11,7 +11,7 @@ const questions = [
     },
     {
         question: "Qual dessas NÃO é uma linguagem de programação?",
-        answers: ["HTML", "C++", "Java", "Python"],
+        answers: ["C++", "HTML", "Java", "Python"],
         correct: 1
     },
     {
@@ -95,3 +95,4 @@ restartBtn.onclick = () => {
 };
 
 loadQuestion();
+
